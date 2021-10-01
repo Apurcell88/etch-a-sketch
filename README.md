@@ -1,0 +1,1 @@
+This is an etch-a-sketch project that demonstrates DOM manipulation.
